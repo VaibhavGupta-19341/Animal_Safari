@@ -1,4 +1,4 @@
-# Animal_Safari_Ascenders
+# Animal_Safari
 an AR app.
 
 ## Website
